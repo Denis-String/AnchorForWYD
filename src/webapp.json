@@ -1,7 +1,7 @@
 {
-  "name":					"My App",
-  "width":					655,
-  "height":					480,
+  "name":					"Anchor For WYD",
+  "width":					1024,
+  "height":					600,
   "protocol":				"app",
   "protocol_call":			"app_call",
   "html_url":				"index.html",
